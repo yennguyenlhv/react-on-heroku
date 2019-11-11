@@ -2,5 +2,5 @@
 module.exports = {
     appName: "My App",
     backend: "https://zebroids.intgdc.com",
-    projectId: " ltn06hvt07uko2r87itmnoaibgzc0mkn",
+    projectId: "pwlmfx6b8cx0r4u5w4623o2dijug30p6",
 };
